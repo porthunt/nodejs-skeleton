@@ -4,7 +4,7 @@
   "description": "A nodejs skeleton for any project.",
   "main": "app.js",
   "author": "porthunt",
-  "license": "MIT",
+  "license": "COFFEEWARE",
   "dependencies" : {
     "express" : "~4.6.1"
   },
