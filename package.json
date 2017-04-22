@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-skeleton",
+  "version": "0.0.1",
+  "description": "A nodejs skeleton for any project.",
+  "main": "app.js",
+  "author": "porthunt",
+  "license": "MIT",
+  "dependencies" : {
+    "express" : "~4.6.1"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/porthunt/nodejs-skeleton.git"
+  }
+}
